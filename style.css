@@ -189,9 +189,6 @@
                 align-items: flex-start;
                 width: 100%;
             }
-            .per1, .per2, .per3, .per4, .per5 {
-                width: 100% !important;
-            }
             .loisir {
                 flex-direction: row;
                 flex-wrap: wrap;
